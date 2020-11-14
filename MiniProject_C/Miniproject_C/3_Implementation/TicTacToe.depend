@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1605351389 source:d:\sanket\codes\tictactoe\main.c
+	<stdio.h>
+	<windows.h>
+	<stdlib.h>
+	<conio.h>
+
+1605330242 source:d:\sanket\codes\tictactoe\unity\unity.c
+	"unity.h"
+	<stddef.h>
+	<avr/pgmspace.h>
+
+1605330243 d:\sanket\codes\tictactoe\unity\unity.h
+	"unity_internals.h"
+
+1605330243 d:\sanket\codes\tictactoe\unity\unity_internals.h
+	"unity_config.h"
+	<setjmp.h>
+	<math.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdint.h>
+	<limits.h>
+	<stdio.h>
+	<stdio.h>
+	<time.h>
+	<time.h>
+
+1605351196 source:d:\sanket\codes\tictactoe\test\test_main.c
+	"../inc/header.h"
+	"../unity/unity.h"
+	"../unity/unity_internals.h"
+	<stdio.h>
+
+1605351128 d:\sanket\codes\tictactoe\inc\header.h
+
